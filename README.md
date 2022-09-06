@@ -7,11 +7,11 @@
 
 [![Banner](https://discord.c99.nl/widget/theme-4/952224946812252230.png)](https://discord.c99.nl/widget/theme-4/952224946812252230.png)
 
-Learning C C++ C# and Reverse Engineer
+Dev C C++ C# and Reverse Engineer
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyroxware&layout=compact&theme=highcontrast)](https://github.com/hyroxware)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyroxdevs&layout=compact&theme=highcontrast)](https://github.com/hyroxware)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hyroxware&theme=highcontrast&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hyroxdevs&theme=highcontrast&show_icons=true)
 
 [![Hyrox-CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
